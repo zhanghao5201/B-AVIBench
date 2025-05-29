@@ -1,5 +1,6 @@
 # B-AVIBench
 About The official repo for paper: B-AVIBench: Towards Evaluating the Robustness of Large Vision-Language Model on Black-box Adversarial Visual-Instructions.
+Paper is available at [B-AVIBench](https://ieeexplore.ieee.org/abstract/document/10816024)
 
 # **News**
 2024/10/11 Code and data are open source.
@@ -106,7 +107,20 @@ After the test is complete, you can perform statistical analysis on the code tha
 # **Acknowledgement**:
 This project is developed based on the [Multi-Modality-Arena](https://github.com/OpenGVLab/Multi-Modality-Arena/tree/main/tiny_lvlm_evaluation); [PAR](https://github.com/shiyuchengTJU/PAR); [promptbench](https://github.com/microsoft/promptbench).
 
+# **Citation**:
 
+If our code or models help your work, please cite B-AVIBench:
+```BibTeX
+@article{zhang2025b,
+  author={Zhang, Hao and Shao, Wenqi and Liu, Hong and Ma, Yongqiang and Luo, Ping and Qiao, Yu and Zheng, Nanning and Zhang, Kaipeng},
+  journal={IEEE Transactions on Information Forensics and Security}, 
+  title={B-AVIBench: Toward Evaluating the Robustness of Large Vision-Language Model on Black-Box Adversarial Visual-Instructions}, 
+  year={2025},
+  volume={20},
+  pages={1434-1446},  
+  doi={10.1109/TIFS.2024.3520306}
+}
+```
 
 
 
